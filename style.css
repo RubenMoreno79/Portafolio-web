@@ -645,7 +645,7 @@ body {
     .home {
         background: url(./img/fondomovil.png);
         flex-direction: column;
-        padding: 50px 5% 0;
+        padding: 20px 5% 0;
         text-align: center;
         height: 120vh;
     }
